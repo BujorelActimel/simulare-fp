@@ -1,0 +1,4 @@
+id,baterie,descriere,activitati
+1;36;find Nemo;up,right,down,halt,right
+2;33;go on adventure;up,up,down,halt,right,right,up
+3;65;explore terrritory;right,down,down,left,halt
